@@ -1,4 +1,4 @@
-![I am LordWynn](https://github.com/LordWynn/LordWynn/blob/main/code.png)
+![I am Abu Taief](https://github.com/LordWynn/LordWynn/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm At Abu Taief</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
